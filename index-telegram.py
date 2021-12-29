@@ -498,12 +498,12 @@ def goChest():
         return
 
     k,l,m,n = coins_pos[0]
-    k = k - 44
-    l = l + 130
-    m = 200
-    n = 250
+    # k = k - 44
+    # l = l + 130
+    m = 380
+    n = 180
     
-    time.sleep(5)
+    time.sleep(3)
     myScreen = pyautogui.screenshot(region=(k, l, m, n))
     img_dir = os.path.dirname(os.path.realpath(__file__)) + r'\targets\saldo1.png'
     myScreen.save(img_dir)
