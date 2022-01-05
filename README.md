@@ -3,6 +3,8 @@
 
 ### Smart Chain Wallet(BUSD/BNB/BCOIN):
 #### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+or
+https://bot.cryptip.xyz/
 
 ### PIX:
   6ce2b79e-97be-4881-a882-81902e29d7ce
